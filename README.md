@@ -6,3 +6,6 @@
 - Team members : 
   1. Nardo Lee
   2. Atlantics Leo
+  
+ # Presentation Link
+ https://docs.google.com/presentation/d/1tUxDtRW3p3lUYn-mz9Jx0AeUqhZ3r-h9yPq31Iarr3k/edit#slide=id.p
